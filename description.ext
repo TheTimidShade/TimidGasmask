@@ -1,0 +1,14 @@
+class RscTitles
+{
+	#include "scripts\gasmask\mask_defines.hpp"
+};
+
+class CfgSounds {
+	sounds[] = {};
+	#include "scripts\gasmask\sounds\mask_sounds.hpp"
+};
+
+class CfgFunctions
+{
+	#include "scripts\gasmask\functions\functions.hpp"
+};
